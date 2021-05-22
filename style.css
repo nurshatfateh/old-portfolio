@@ -1,0 +1,52 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+    background-color:#5DADE2;
+    
+}
+.banner-column{
+    background-color: #85C1E9;
+}
+
+.about-container{
+    background-color:#31C984 ;
+}
+.education-container{
+ background-color: whitesmoke;
+}
+.sti{
+    position: sticky;
+    top: 0;
+
+}
+.meh{
+    color:#EE4264;
+    font-weight: bolder;
+}
+.circle{
+    background-color: #EE4264;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    color: white;
+}
+.uh{
+    background-color: silver;
+}
+.course{
+    background-color: #85C1E9;
+}
+.kk{
+    background-color: #000000;
+}
+.yo{
+    color: white;
+    background-color: #EE4264;
+}
+.cc{
+    background-color: white;
+}
+.oh{
+    color:teal
+}
